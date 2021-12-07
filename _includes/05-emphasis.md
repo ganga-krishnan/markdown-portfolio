@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Hello world
+_Welcome to my page
+Its me GANGA
+MCA student at MIIT,Ayur
+Reading, Travelling, Music are my areas of interests
+I can program in c,c++,java and python languages
